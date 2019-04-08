@@ -1,0 +1,27 @@
+body{
+    background-color: #6ABE4E;
+}
+/* button */
+.btn-green{
+    color: #fff;
+    background-color: #00B242;
+    border-color: #00B242;
+}
+/* text */
+.text-green{
+    color: #6ABE4E;
+}
+
+.box-shadow{
+    padding: 40px;
+    background-color: white;
+    box-shadow: 2px 2px 10px 1px rgba(0,0,0,.3);
+}
+#login {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+#login .form-login *{
+    margin-bottom: 15px;
+}
